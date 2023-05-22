@@ -12,4 +12,4 @@ I've created an immersive game with fully animated character movements, includin
 
 [![Video Demo](https://github.com/NivaLado/BRed-GAME/assets/42045645/c5f313f2-4d7a-4c8e-979f-e7461dd70290)](https://www.youtube.com/watch?v=DiazGxHWTdA&ab)
 
-[![Video Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=DiazGxHWTdA&ab))
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
