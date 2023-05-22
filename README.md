@@ -10,6 +10,6 @@ I've created an immersive game with fully animated character movements, includin
 
 ![image](https://github.com/NivaLado/BRed-GAME/assets/42045645/d2f26b83-5ffa-4711-8879-8f52fcbe71fe)
 
-[![Video Demo](https://github.com/NivaLado/BRed-GAME/assets/42045645/c5f313f2-4d7a-4c8e-979f-e7461dd70290)](https://www.youtube.com/watch?v=DiazGxHWTdA&ab)
+![image](https://github.com/NivaLado/BRed-GAME/assets/42045645/c5f313f2-4d7a-4c8e-979f-e7461dd70290)
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=DiazGxHWTdA&ab)
+[![Watch the video](https://github.com/NivaLado/BRed-GAME/assets/42045645/fdd337c8-b3fb-40ff-8ed0-f54d1c531134)](https://www.youtube.com/watch?v=DiazGxHWTdA&ab)
