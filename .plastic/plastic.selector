@@ -1,0 +1,4 @@
+repository "BRed GAME@NivaLada@cloud"
+  path "/"
+    br "/main"
+    co "/main"
