@@ -4,6 +4,8 @@
  
 I've created an immersive game with fully animated character movements, including walking, running, flying, and combat. Enemies intelligently chase the player using the A* search algorithm. The character can launch projectile attacks with dynamic particle effects. A realistic cloak, following physical laws, adds an extra layer of detail. Atmospheric fog enhances the visual experience using shaders.
 
+![photo_2023-06-07_20-39-03](https://github.com/NivaLado/BRed-GAME/assets/42045645/35cda028-d2f4-4435-8248-f874d084dfd3)
+
 ![image](https://github.com/NivaLado/BRed-GAME/assets/42045645/7396a2f4-34f3-4d3c-9595-67104ae3247c)
 
 ![image](https://github.com/NivaLado/BRed-GAME/assets/42045645/c70b4de3-4147-4aa7-9642-0bc88e94195f)
